@@ -1,0 +1,17 @@
+.pt {
+    padding-top: 60px;
+    /* margin-left: 70px; */
+    /* padding-left: 10px; */
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* display: inline-block; */
+    /* right: 1000px; */
+    position: relative;
+    left: 110px;
+    top: 120px;
+}
+
+/* .pad {
+    padding: 50px;
+} */
